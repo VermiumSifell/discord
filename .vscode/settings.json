@@ -2,6 +2,7 @@
   "conventionalCommits.scopes": [
     "node",
     "eslint",
-    "vscode"
+    "vscode",
+    "hasky"
   ]
 }
