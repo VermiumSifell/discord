@@ -1,0 +1,11 @@
+{
+  "token": "bot token",
+  "presence": {
+    "activity": {
+      "type": "PLAYING, STREAMING, LISTENING, WATCHING, COMPETING",
+      "message": "bot activity message"
+    },
+    "status": "online or idle or dnd or invisible"
+  },
+  "prefix": "bot prefix"
+}
