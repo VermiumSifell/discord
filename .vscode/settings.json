@@ -1,3 +1,7 @@
 {
-  "conventionalCommits.scopes": ["node"]
+  "conventionalCommits.scopes": [
+    "node",
+    "eslint",
+    "vscode"
+  ]
 }
